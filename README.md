@@ -1,7 +1,7 @@
 # Order Fulfillment System
 
 ## Overview
-This project is a lightweight yet high-concurrency-capable emulation of an order fulfillment system designed to manage and optimize the placement of orders across a cooler, heater, and ambient shelf.
+This project is a lightweight yet high-concurrency-capable emulation of an order fulfillment system designed to manage and optimize the placement of orders across different types of storages(cooler, heater, ambient shelf).
 
 The system dynamically reallocates orders in real time to maintain freshness and operational efficiency, even under high load.
 
