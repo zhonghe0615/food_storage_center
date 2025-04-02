@@ -1,0 +1,11 @@
+{
+    "endpoint": "https://api.hezhong.com",
+    "auth": "",
+    "name": "",
+    "num_coolers": 1,
+    "cooler_cap": 6,
+    "num_heaters": 1,
+    "heater_cap": 6,
+    "num_shelves": 1,
+    "shelf_cap": 12
+  }
